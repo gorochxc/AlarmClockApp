@@ -1,0 +1,14 @@
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.exe.config
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.exe
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\bin\Debug\AlarmClockApp.pdb
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.AssemblyReference.cache
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.SuggestedBindingRedirects.cache
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.ClockForm.resources
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.Forms.AboutForm.resources
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.Properties.Resources.resources
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.GenerateResource.cache
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.exe
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.pdb
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.Forms.AlarmForm.resources
+D:\Programs\Projects\cs\Work\Templates\Project 2. AlarmClock\AlarmClockApp\AlarmClockApp\obj\Debug\AlarmClockApp.Forms.SettingsForm.resources
