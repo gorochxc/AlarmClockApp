@@ -32,6 +32,7 @@ namespace AlarmClockApp.Forms
         {
             this.alarmTimePicker = new System.Windows.Forms.DateTimePicker();
             this.TimeSetButton = new System.Windows.Forms.Button();
+            this.okButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // alarmTimePicker
@@ -54,11 +55,22 @@ namespace AlarmClockApp.Forms
             this.TimeSetButton.UseVisualStyleBackColor = true;
             this.TimeSetButton.Click += new System.EventHandler(this.TimeSetButton_Click);
             // 
+            // okButton
+            //
+            this.okButton.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.okButton.Location = new System.Drawing.Point(155, 260);
+            this.okButton.Name = "okButton";
+            this.okButton.Size = new System.Drawing.Size(75, 23);
+            this.okButton.TabIndex = 2;
+            this.okButton.Text = "OK";
+            this.okButton.UseVisualStyleBackColor = true;
+            // 
             // SettingsForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(404, 302);
+            this.Controls.Add(this.okButton);
             this.Controls.Add(this.TimeSetButton);
             this.Controls.Add(this.alarmTimePicker);
             this.Name = "SettingsForm";
@@ -71,5 +83,6 @@ namespace AlarmClockApp.Forms
 
         private System.Windows.Forms.DateTimePicker alarmTimePicker;
         private System.Windows.Forms.Button TimeSetButton;
+        private Button okButton;
     }
 }

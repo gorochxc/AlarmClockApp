@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.alarmLabel = new System.Windows.Forms.Label();
+            this.okButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // alarmLabel
@@ -40,11 +41,22 @@
             this.alarmLabel.TabIndex = 0;
             this.alarmLabel.Text = "Alarm!";
             // 
+            // okButton
+            //
+            this.okButton.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.okButton.Location = new System.Drawing.Point(92, 180);
+            this.okButton.Name = "okButton";
+            this.okButton.Size = new System.Drawing.Size(75, 23);
+            this.okButton.TabIndex = 1;
+            this.okButton.Text = "OK";
+            this.okButton.UseVisualStyleBackColor = true;
+            // 
             // AlarmForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(264, 215);
+            this.Controls.Add(this.okButton);
             this.Controls.Add(this.alarmLabel);
             this.Name = "AlarmForm";
             this.Text = "AlarmForm";
@@ -56,5 +68,6 @@
         #endregion
 
         private System.Windows.Forms.Label alarmLabel;
+        private System.Windows.Forms.Button okButton;
     }
 }
